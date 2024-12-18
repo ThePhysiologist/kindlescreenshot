@@ -3,7 +3,3 @@
   height: 820
   wait: 30000
   width: 600
-  javascript: | 
-  setTimeout(function() {
-  location.reload();
-}, 20000)
