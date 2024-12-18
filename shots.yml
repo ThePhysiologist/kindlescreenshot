@@ -3,4 +3,4 @@
   height: 820
   wait: 30000
   width: 600
-  javascript: setTimeout(function() {location.reload();}, 1000);
+  javascript: setTimeout(function() {location.reload();}, 10000);
