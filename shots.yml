@@ -1,4 +1,4 @@
 - url: https://thephysiologist.github.io/samanthakindle/
   output: shot.png
   height: 800
-  wait: 5000
+  wait: 10000
