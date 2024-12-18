@@ -5,4 +5,4 @@
   width: 600
   javascript: | setTimeout(function() {
   location.reload();
-}, 20000);
+}, 20000)
