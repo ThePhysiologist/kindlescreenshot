@@ -1,6 +1,6 @@
 - url: https://thephysiologist.github.io/samanthakindle/
   output: shot.png
   height: 820
-  wait: 30000
+  wait: 9000
   width: 600
   javascript: setTimeout(function() {location.reload();}, 10000);
